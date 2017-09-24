@@ -38,7 +38,7 @@ public class PatterPrint {
 			System.out.println();                // To go to new line
 		}
 		
-		for(int i=1; i<3; i++)                   // For Loop to handle the Rows and Columns - 1st Part
+		for(int i=1; i<3; i++)                   // For Loop to handle the Rows and Columns - 2nd Part
 		{
 			for(int j=1; j<=i; j++)
 			{
